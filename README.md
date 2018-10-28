@@ -1,1 +1,1 @@
-# rsscool-codejam
+# rsschool-codejam
